@@ -1,0 +1,26 @@
+//student
+{
+    "id":114,
+    "name":"qwerty",
+    "div":"D",
+    "classteainch":"asdfgh",
+    "subject":"all"
+}
+
+//teacher
+{
+    "id":114,
+    "name":"qwerty",
+    "SubTeach":"English",
+    "claassign":"A"
+}
+
+/marks || /presenty
+{
+    "id": "105",
+    "English": "60",
+   "Science": "40",
+    "Hindi": "20",
+    "Marathi": "40",
+    "pt": "10"
+}
